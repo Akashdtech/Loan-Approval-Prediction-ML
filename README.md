@@ -1,6 +1,5 @@
 # Loan-Approval-Prediction-ML
 This project implements a machine learning pipeline to predict loan approval status based on customer attributes. The dataset is preprocessed, balanced, and analyzed using various classification algorithms to achieve reliable predictions. Below is a summary of the key functionalities in the code:
-Key Steps:
 
     Data Loading and Exploration:
         The dataset (LoanApprovalPrediction.csv) is loaded using pandas.
